@@ -1,0 +1,6 @@
+{
+    "name": "binance/binance-toolbox-php",
+    "require": {
+        "binance/binance-connector-php": "^1.0"
+    }
+}
