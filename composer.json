@@ -1,5 +1,8 @@
 {
     "name": "binance/binance-toolbox-php",
+    "description": "A collection of PHP scripts that demostrates the usage of binance-connector-php",
+    "minimum-stability": "stable",
+    "license": "MIT",
     "require": {
         "binance/binance-connector-php": "^1.0"
     }
