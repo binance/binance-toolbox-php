@@ -42,3 +42,6 @@ php src/order.php
 ## See issues?
 - If the issue is about the library itself, please open a github issue.
 - If it's a general issue about the API, please open a topic at [Binance developer forum](https://dev.binance.vision).
+
+## License
+MIT
